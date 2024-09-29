@@ -1,0 +1,15 @@
+/Users/personal3/Downloads/code/mycodedir/lab-3-mastermind-SavannaDickie/obj/Debug/net8.0/lab-3-mastermind-SavannaDickie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/personal3/Downloads/code/mycodedir/lab-3-mastermind-SavannaDickie/obj/Debug/net8.0/lab-3-mastermind-SavannaDickie.AssemblyInfoInputs.cache
+/Users/personal3/Downloads/code/mycodedir/lab-3-mastermind-SavannaDickie/obj/Debug/net8.0/lab-3-mastermind-SavannaDickie.AssemblyInfo.cs
+/Users/personal3/Downloads/code/mycodedir/lab-3-mastermind-SavannaDickie/obj/Debug/net8.0/lab-3-mastermind-SavannaDickie.csproj.CoreCompileInputs.cache
+/Users/personal3/Downloads/code/mycodedir/lab-3-mastermind-SavannaDickie/obj/Debug/net8.0/lab-3-mastermind-SavannaDickie.sourcelink.json
+/Users/personal3/Downloads/code/mycodedir/lab-3-mastermind-SavannaDickie/bin/Debug/net8.0/lab-3-mastermind-SavannaDickie
+/Users/personal3/Downloads/code/mycodedir/lab-3-mastermind-SavannaDickie/bin/Debug/net8.0/lab-3-mastermind-SavannaDickie.deps.json
+/Users/personal3/Downloads/code/mycodedir/lab-3-mastermind-SavannaDickie/bin/Debug/net8.0/lab-3-mastermind-SavannaDickie.runtimeconfig.json
+/Users/personal3/Downloads/code/mycodedir/lab-3-mastermind-SavannaDickie/bin/Debug/net8.0/lab-3-mastermind-SavannaDickie.dll
+/Users/personal3/Downloads/code/mycodedir/lab-3-mastermind-SavannaDickie/bin/Debug/net8.0/lab-3-mastermind-SavannaDickie.pdb
+/Users/personal3/Downloads/code/mycodedir/lab-3-mastermind-SavannaDickie/obj/Debug/net8.0/lab-3-mastermind-SavannaDickie.dll
+/Users/personal3/Downloads/code/mycodedir/lab-3-mastermind-SavannaDickie/obj/Debug/net8.0/refint/lab-3-mastermind-SavannaDickie.dll
+/Users/personal3/Downloads/code/mycodedir/lab-3-mastermind-SavannaDickie/obj/Debug/net8.0/lab-3-mastermind-SavannaDickie.pdb
+/Users/personal3/Downloads/code/mycodedir/lab-3-mastermind-SavannaDickie/obj/Debug/net8.0/lab-3-mastermind-SavannaDickie.genruntimeconfig.cache
+/Users/personal3/Downloads/code/mycodedir/lab-3-mastermind-SavannaDickie/obj/Debug/net8.0/ref/lab-3-mastermind-SavannaDickie.dll
