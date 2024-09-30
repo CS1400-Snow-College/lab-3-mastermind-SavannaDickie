@@ -15,7 +15,7 @@ int guessMax = 3;
 //string response = Console.ReadLine();
 bool guess = false; 
 int guesses = Convert.ToInt32(guess);
-int attempts = 0;
+int attempts = 1;
 
 //tring guess != "ba";
 
@@ -24,7 +24,7 @@ Console.WriteLine($"I have chosen {maxLetter} letters between 'a' and 'b' and ha
 string response; 
 do
 {
-    Console.WriteLine($"Guess #{guessMax}; Please guess a sequence of {maxLetter} lower case letters with no repeats.");
+    Console.WriteLine($"Guess #{attempts ++}; Please guess a sequence of {maxLetter} lower case letters with no repeats.");
     response = Console.ReadLine();
     //playersGuess = Convert.ToInt32(response); 
 }
