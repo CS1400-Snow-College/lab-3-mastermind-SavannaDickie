@@ -28,7 +28,7 @@ do
     //playersGuess = Convert.ToInt32(response); 
     //int[] correctPosition = new int[]{'b','a','c'};
     int correctPosition = 0;
-    
+    int wrongPosition = 0;
     for(int i = 0 ; i < secret.Length; i++) //page 95
     {
        //int[] response = new int[j]
@@ -41,7 +41,16 @@ do
             //Console.WriteLine($"{correctPosition} - correct position");
         
     }
+    //int wrongPosition = 0;
+    for(int j = 0 ; j < response.Length; j++)
+    {
+        if(secret.Contains(response[j]) && secret[j] != response[j])
+        {
+            wrongPosition++;
+        }
+    }
   Console.WriteLine($"{correctPosition} - correct position"); 
+  Console.WriteLine($"{wrongPosition} - wrong position");
   continue; 
 }
 while(response != secret);
