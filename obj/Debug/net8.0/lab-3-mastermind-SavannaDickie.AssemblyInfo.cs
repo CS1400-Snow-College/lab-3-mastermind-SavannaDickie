@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("lab-3-mastermind-SavannaDickie")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2e2bda6eb3b7298394717d98445aec1974fa835")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01558080b512d1f7259a219a1ab9f4d605b51e27")]
 [assembly: System.Reflection.AssemblyProductAttribute("lab-3-mastermind-SavannaDickie")]
 [assembly: System.Reflection.AssemblyTitleAttribute("lab-3-mastermind-SavannaDickie")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
